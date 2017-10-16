@@ -1,0 +1,217 @@
+div{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+}
+
+.box1{
+	top: 50px;
+	left: 50px;
+	border-right: 5px solid;
+}
+
+.box2{
+	border-radius: 50%;
+	background-color: blue;
+	top: 100px;
+	left: 75px;
+}
+
+.box3{
+	top: 150px;
+	left: 50px;
+	border-right: 5px solid;
+}
+
+.box4{
+	border-radius: 50%;
+	background-color: blue;
+	top: 200px;
+	left: 75px;
+}
+
+.box5{
+	top: 250px;
+	left: 50px;
+	border-right: 5px solid;
+}
+
+.box6{
+	border-radius: 50%;
+	background-color: blue;
+	top: 300px;
+	left: 75px;
+}
+
+.box7{
+	top: 350px;
+	left: 50px;
+	border-right: 5px solid;
+}
+
+.box8{
+	border-radius: 50%;
+	background-color: blue;
+	top: 400px;
+	left: 75px;
+}
+
+.box9{
+	top: 450px;
+	left: 50px;
+	border-right: 5px solid;
+}
+
+.box10{
+	border-radius: 50%;
+	background-color: blue;
+	top: 500px;
+	left: 75px;
+}
+
+.box11{
+	top: 550px;
+	left: 50px;
+	border-right: 5px solid;
+}
+
+.box12{
+	border-radius: 50%;
+	background-color: blue;
+	top: 600px;
+	left: 75px;
+}
+
+.box13{
+	top: 650px;
+	left: 50px;
+	border-right: 5px solid;
+}
+
+.box14{
+	top: 50px;
+	left: 100px;
+	border-top: 5px solid;
+}
+
+.box15{
+	border-radius: 50%;
+	background-color: blue;
+	top: 25px;
+	left: 150px;
+}
+
+.box16{
+	top: 50px;
+	left: 200px;
+	border-top: 5px solid;
+}
+
+.box17{
+	border-radius: 50%;
+	background-color: blue;
+	top: 25px;
+	left: 250px;
+}
+.box18{
+	top: 50px;
+	left: 300px;
+	border-top: 5px solid;
+}
+
+.box19{
+	border-radius: 50%;
+	background-color: blue;
+	top: 25px;
+	left: 350px;
+}
+
+.box20{
+	top: 50px;
+	left: 400px;
+	border-top: 5px solid;
+}
+
+.box21{
+	top: 50px;
+	left: 400px;
+	border-right: 5px solid;
+}
+
+.box22{
+	border-radius: 50%;
+	background-color: blue;
+	top: 100px;
+	left: 425px;
+}
+
+.box23{
+	top: 150px;
+	left: 400px;
+	border-right: 5px solid;
+}
+
+.box24{
+	border-radius: 50%;
+	background-color: blue;
+	top: 200px;
+	left: 425px;
+}
+
+.box25{
+	top: 250px;
+	left: 400px;
+	border-right: 5px solid;
+}
+
+.box26{
+	top: 300px;
+	left: 405px;
+	border-top: 5px solid;
+}
+
+.box27{
+	border-radius: 50%;
+	background-color: blue;
+	top: 275px;
+	left: 355px;
+}
+
+.box28{
+	top: 300px;
+	left: 305px;
+	border-top: 5px solid;
+}
+
+.box29{
+	border-radius: 50%;
+	background-color: blue;
+	top: 275px;
+	left: 255px;
+}
+
+.box30{
+	top: 300px;
+	left: 205px;
+	border-top: 5px solid;
+}
+
+.box31{
+	top: 300px;
+	left: 155px;
+	border-right: 5px solid;
+}
+
+.box32{
+	border-radius: 50%;
+	background-color: blue;
+	top: 350px;
+	left: 180px;
+}
+
+.box33{
+	top: 300px;
+	left: 155px;
+	border-top: 5px solid;
+	border-right: 5px solid;
+}
