@@ -1867,11 +1867,11 @@ div{
 	right: -1215;
 }
 .box174{
-	top: 310px;
+	top: 245px;
 	
-	right: -1200px;
+	right: -1265px;
 	
-	border-right: 5px solid;
+	border-bottom: 5px solid;
 }
 .box175{
 	width: 30px;
@@ -1881,9 +1881,61 @@ div{
 	
 	background-color: blue;
 	
-	top: 3px;
+	top: 280px;
 
-	right: -1215;
+	right: -1295;
+}
+.box176{
+	top: 245px;
+	
+	right: -1340px;
+	
+	border-bottom: 5px solid;
+}
+.box177{
+	width: 30px;
+	height: 30px;
+	
+	border-radius: 50%;
+	
+	background-color: blue;
+	
+	top: 280px;
+
+	right: -1370;
+}
+.box178{
+	top: 245px;
+	
+	right: -1420px;
+	
+	border-bottom: 5px solid;	
+}
+.box179{
+	top: 294px;
+	
+	right: -1420px;
+	
+	border-right: 5px solid;
+}
+.box180{
+	width: 50px;
+	height: 50px;
+	
+	border-radius: 50%;
+	
+	background-color: blue;
+	
+	top: 345px;
+
+	right: -1443;
+}
+.box181{
+	top: 294px;
+	
+	right: -1443px;
+	
+	border-right: 5px solid;
 }
 .description{
 	
