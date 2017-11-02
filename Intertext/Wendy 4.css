@@ -1,0 +1,15 @@
+.leftBlock{
+position: absolute;
+top: 300px;
+left: 300px;
+font-family: 'Cormorant Garamond', serif;
+
+}
+
+.rightBlock{
+position: absolute;
+top: 300px;
+left: 800px;
+font-family: 'Cormorant Garamond', serif;
+
+}
