@@ -11,3 +11,15 @@ top: 300px;
 left: 800px;
 font-family: 'Cormorant Garamond', serif;
 }
+
+.box1{
+position: absolute;
+top: 500px;
+right: 50px;
+}
+
+.box2{
+position: absolute;
+top: 500px;
+left: 50px;
+}
