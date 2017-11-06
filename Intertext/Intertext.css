@@ -29,6 +29,6 @@ text-decoration: underline;
 
 .box1{
 position: absolute;
-height: 400%;
+top: 400px;
 top: 50px;
 }
