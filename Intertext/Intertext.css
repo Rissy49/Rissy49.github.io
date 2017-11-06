@@ -25,5 +25,10 @@ left: 440px;
 font-family: 'Cinzel', serif;
 font-size: 30px;
 text-decoration: underline;
+}
 
+.box1{
+position: absolute;
+height: 400%;
+top: 50px;
 }
