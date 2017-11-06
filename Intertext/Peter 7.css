@@ -20,7 +20,7 @@ text-decoration: underline;
 
 position: absolute;
 
-top: 500px;
+top: 900px;
 
 right: 50px;
 
@@ -31,9 +31,14 @@ right: 50px;
 
 position: absolute;
 
-top: 500px;
+top: 900px;
 
 left: 50px;
 
 }
+
+.box3{
+position: absolute;
+top: 600px;
+left: 500px;
 }
