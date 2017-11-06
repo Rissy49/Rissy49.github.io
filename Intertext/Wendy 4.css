@@ -18,14 +18,14 @@ top: 700px;
 right: 50px;
 }
 
-.box3{
-position: absolute;
-top: 450px;
-right: 560px;
-}
-
 .box2{
 position: absolute;
 top: 700px;
 left: 50px;
+}
+
+.box3{
+position: absolute;
+top: 450px;
+right: 560px;
 }
