@@ -14,12 +14,18 @@ font-family: 'Playfair Display', serif;
 
 .box1{
 position: absolute;
-top: 500px;
+top: 800px;
 right: 50px;
+}
+
+.box3{
+position: absolute;
+top: 450px;
+right: 560px;
 }
 
 .box2{
 position: absolute;
-top: 500px;
+top: 800px;
 left: 50px;
 }
