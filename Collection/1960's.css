@@ -1,7 +1,7 @@
 .box1{	
-position: absolute;	
-top: 50px;	
-left: 500px;
+position: absolute;
+top: 50px;
+left: 390px;
 }
 
 .box2{
@@ -17,6 +17,7 @@ position: absolute;
 top: 400px;
 left: 260px;
 }
+
 .box4{
 position: absolute;
 top: 710px;
