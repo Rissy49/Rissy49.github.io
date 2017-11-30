@@ -31,3 +31,9 @@ top: 100px;
 left: 50px;
 font-family: sans-serif;
 }
+
+.box6{
+position: absolute;
+top: 900px;
+left: 260px;
+}
