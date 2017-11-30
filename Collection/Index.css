@@ -1,0 +1,27 @@
+.box1{
+position: absolute;	
+top: 50px;	
+left: 230px;
+}
+.box2{	
+position: absolute;	
+top: 290px;	
+left: 150px;
+}
+.box3{	
+position: absolute;	
+top: 730px;	
+left: 1250px;
+opacity: 0;
+transition: opacity 1s linear;
+}
+
+.box3:hover {
+	opacity: 0;
+}
+
+
+
+
+
+
