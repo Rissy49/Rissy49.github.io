@@ -1,0 +1,221 @@
+.JapanSociety{
+position: absolute;
+top: 15px;
+right: 30px;
+}
+.box{
+position: absolute;
+top: 15px;
+right: 110px;
+}
+
+.box1{
+position: absolute;
+background-color: grey;
+height: 50px;
+width: 4090px;
+top: 150px;
+}
+
+.box2{
+position: absolute;
+color: white;
+top: 161px;
+left: 20px;	
+}
+
+.box3{
+position: absolute;
+top: 270px;
+left: 50px;
+}
+
+.box4{
+position: absolute;
+top: 930px;
+left: 50px;
+}
+.box5{
+	position: absolute;
+	top: 270px;
+	left: 500px;
+}
+.box6{
+	position: absolute;
+	top: 270px;
+	left: 950px;
+}
+
+.box7{
+	position: absolute;
+	top:270px;
+	left: 1400px;
+}
+
+.box8{
+	position: absolute;
+	top: 270px;
+	left: 1850px;
+}
+
+.box9{
+	position: absolute;
+	top: 270px;
+	left: 2300px;
+}
+
+.box10{
+	position: absolute;
+	top: 270px;
+	left: 2750px;
+}
+
+.box11{
+	position: absolute;
+	top: 270px;
+	left: 3200px;
+}
+
+.box12{
+	position: absolute;
+	top: 270px;
+	left: 3650px;
+}
+
+.box13{
+	position: absolute;
+	top: 30px;
+	left: 10px;
+}
+
+.box14{
+	position: absolute;
+	background-color: red;
+	height: 50px;
+	width: 150px;
+	top: 1350px;
+	left: 50px;
+}
+
+.box15{
+	position: absolute;
+	top: 1363px;
+	left: 90px;
+	color: white;
+}
+
+.box16{
+position: absolute;
+background-color: grey;
+height: 300px;
+width: 4090px;
+top: 1500px;
+}
+
+.box17{
+	position: absolute;
+	top: 1510px;
+	left: 50px;
+	color: white;
+}
+
+@media(max-width: 550px){
+	.box1{
+		position: absolute;
+		background-color: grey;
+		height: 50px;
+		width: 100vw;
+		top: 20vh;
+	}
+
+	.box{
+		position: absolute;
+		top: 15px;
+		right: 20vw;
+	}
+	
+	.JapanSociety{
+		position: absolute;
+		top: 15px;
+		right: 5vw;
+	}
+
+	.box13{
+		position: absolute;
+		top: 10vh;
+		right: 2vw;
+	}
+
+	.box2{
+		position: absolute;
+		color: white;
+		top: 21.3vh;
+		left: 20px;	
+	}
+
+	.box5{
+		position: absolute;
+		top: 145vh;
+		left: 9vw;
+	}
+
+	.box16{
+		position: absolute;
+		background-color: grey;
+		height: 300px;
+		width: 4090px;
+		top: 715vh;
+	}
+
+	.box17{
+		position: absolute;
+		top: 715vh;
+		left: 50px;
+		color: white;
+	}
+
+	.box6{
+		position: absolute;
+		top: 215vh;
+		left: 9vw;
+	}
+
+	.box7{
+		position: absolute;
+		top:286vh;
+		left: 9vw;
+	}
+
+	.box8{
+		position: absolute;
+		top: 357vh;
+		left: 9vw;
+	}
+
+	.box9{
+		position: absolute;
+		top: 428vh;
+		left: 9vw;
+	}
+
+	.box10{
+		position: absolute;
+		top: 499vh;
+		left: 9vw;
+	}
+
+	.box11{
+		position: absolute;
+		top: 570vh;
+		left: 9vw;
+	}
+
+	.box12{
+		position: absolute;
+		top: 641vh;
+		left: 9vw;
+	}
+
+
+	
+}
