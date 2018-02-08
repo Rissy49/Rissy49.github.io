@@ -4,11 +4,6 @@ top: 15px;
 right: 30px;
 }
 
-a:visted{
-	color: black;
-}
-
-
 .box1{
 position: absolute;
 background-color: grey;
@@ -103,8 +98,6 @@ left: 50px;
 	left: 90px;
 	color: white;
 }
-
-
 
 .box16{
 position: absolute;
