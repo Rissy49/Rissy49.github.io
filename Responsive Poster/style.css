@@ -101,6 +101,12 @@ left: 50px;
 	left: 90px;
 	color: white;
 }
+a:visited{
+	color: black;
+}
+a:link{
+	color: white;
+}
 
 .box16{
 position: absolute;
