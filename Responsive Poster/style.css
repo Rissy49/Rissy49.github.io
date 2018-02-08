@@ -3,10 +3,8 @@ position: absolute;
 top: 15px;
 right: 30px;
 }
-.box{
-position: absolute;
-top: 15px;
-right: 110px;
+a:visited{
+	color: black;
 }
 
 .box1{
@@ -107,7 +105,7 @@ left: 50px;
 .box16{
 position: absolute;
 background-color: grey;
-height: 300px;
+height: 750px;
 width: 4090px;
 top: 1500px;
 }
@@ -119,6 +117,75 @@ top: 1500px;
 	color: white;
 }
 
+.box18{
+	position: absolute;
+	top: 1590px;
+	left: 50px;
+}
+
+.box19{
+position: absolute;
+background-color: red;
+height: 20px;
+width: 20px;
+top: 1835px;
+left: 293px;
+border-radius: 50%;
+}
+
+.box20{
+	position: absolute;
+	top: 2150px;
+	left: 50px;
+	font-size: 20px;
+}
+
+.box21{
+	position: absolute;
+	top: 1510px;
+	left: 83vw;
+	color: white;
+
+}
+
+.box22{
+	position: absolute;
+	top: 1600px;
+	left: 80vw;
+}
+
+.box23{
+	position: absolute;
+	top: 1800px;
+	left: 84vw;
+	color: white;
+}
+
+.box24{
+	position: absolute;
+	top: 1870px;
+	left: 83vw;
+}
+
+.box25{
+	position: absolute;
+	top: 1930px;
+	left: 81vw;
+	color: white;
+}
+
+.box26{
+	position: absolute;
+	top: 2000px;
+	left: 80vw;
+
+}
+
+.box{
+	position: absolute;
+	top: 15px;
+	right: 110px;
+}
 @media(max-width: 550px){
 	.box1{
 		position: absolute;
