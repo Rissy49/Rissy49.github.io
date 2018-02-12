@@ -3,10 +3,13 @@ position: absolute;
 top: 15px;
 right: 30px;
 color: black;
-text-decoration: none;
-
 }
 a:visited{
+	color: black;
+	text-decoration: none;
+}
+
+a:link{
 	color: black;
 	text-decoration: none;
 }
@@ -102,17 +105,16 @@ left: 50px;
 	background-color: red;
 	height: 50px;
 	width: 150px;
-	top: 1350px;
+	top: 1377px;
 	left: 50px;
 }
 
 .box15{
 	position: absolute;
-	top: 1363px;
+	top: 1390px;
 	left: 90px;
 	color: white;
 }
-
 
 .box16{
 position: absolute;
@@ -306,13 +308,13 @@ border-radius: 50%;
 
 	.box14{
 		position: absolute;
-		top: 170vh;
+		top: 167vh;
 		left: 9vw;
 	}
 
 	.box15{
 		position: absolute;
-		top: 171.5vh;
+		top: 168.5vh;
 		left: 16vw;
 	}
 
