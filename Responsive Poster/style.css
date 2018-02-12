@@ -2,6 +2,20 @@
 position: absolute;
 top: 15px;
 right: 30px;
+color: black;
+text-decoration: none;
+
+}
+a:visited{
+	color: black;
+	text-decoration: none;
+}
+
+
+.box{
+position: absolute;
+top: 15px;
+right: 110px;
 }
 
 .box1{
@@ -99,6 +113,7 @@ left: 50px;
 	color: white;
 }
 
+
 .box16{
 position: absolute;
 background-color: grey;
@@ -183,12 +198,13 @@ border-radius: 50%;
 	top: 15px;
 	right: 110px;
 }
+
 @media(max-width: 550px){
 	.box1{
 		position: absolute;
 		background-color: grey;
 		height: 50px;
-		width: 100vw;
+		width: 95vw;
 		top: 20vh;
 	}
 
@@ -219,66 +235,151 @@ border-radius: 50%;
 
 	.box5{
 		position: absolute;
-		top: 145vh;
+		top: 180vh;
 		left: 9vw;
 	}
 
 	.box16{
 		position: absolute;
 		background-color: grey;
-		height: 300px;
+		height: 115vh;
 		width: 4090px;
-		top: 715vh;
+		top: 865vh;
 	}
 
 	.box17{
 		position: absolute;
-		top: 715vh;
+		top: 865vh;
 		left: 50px;
 		color: white;
 	}
 
 	.box6{
 		position: absolute;
-		top: 215vh;
+		top: 265vh;
 		left: 9vw;
 	}
 
 	.box7{
 		position: absolute;
-		top:286vh;
+		top: 350vh;
 		left: 9vw;
 	}
 
 	.box8{
 		position: absolute;
-		top: 357vh;
+		top: 435vh;
 		left: 9vw;
 	}
 
 	.box9{
 		position: absolute;
-		top: 428vh;
+		top: 520vh;
 		left: 9vw;
 	}
 
 	.box10{
 		position: absolute;
-		top: 499vh;
+		top: 605vh;
 		left: 9vw;
 	}
 
 	.box11{
 		position: absolute;
-		top: 570vh;
+		top: 690vh;
 		left: 9vw;
 	}
 
 	.box12{
 		position: absolute;
-		top: 641vh;
+		top: 775vh;
 		left: 9vw;
 	}
+
+	.box13{
+		position: absolute;
+		top: 5vh;
+		left: 3vw;
+		font-size: 14px; 
+		font-weight: bold;
+	}
+
+	.box14{
+		position: absolute;
+		top: 170vh;
+		left: 9vw;
+	}
+
+	.box15{
+		position: absolute;
+		top: 171.5vh;
+		left: 16vw;
+	}
+
+	.box18{
+		position: absolute;
+		top: 878vh;
+		left: 20px;
+	}
+
+	.box19{
+		position: absolute;
+		background-color: red;
+		height: 20px;
+		width: 20px;
+		top: 909.5vh;
+		left: 260px;
+		border-radius: 50%;
+	}
+
+	.box20{
+		position: absolute;
+		top: 945vh;
+		left: 20px;
+		font-size: 20px;
+	}
+
+	.box21{
+	position: absolute;
+	top: 950vh;
+	left: 20px;
+	color: white;
+
+	}
+
+	.box22{
+	position: absolute;
+	top: 960vh;
+	left: 20px;
+	}
+
+	.box23{
+	position: absolute;
+	top: 950vh;
+	left: 35vw;
+	color: white;
+	}
+
+.box24{
+	position: absolute;
+	top: 960vh;
+	left: 35vw;
+	}
+
+	.box25{
+	position: absolute;
+	top: 950vh;
+	left: 60vw;
+	color: white;
+	}
+
+.box26{
+	position: absolute;
+	top: 960vh;
+	left: 60vw;
+
+	}
+
 
 
 	
