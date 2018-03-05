@@ -1,11 +1,51 @@
-.h1{
-font-family:'Julius Sans One',sans-serif;
+
+.box{
+	font-size: 50px;
+	font-family: 'Julius Sans One', sans-serif;
+	color: lightgrey;
 }
 
-.h2{
-font-family:'Open Sans', sans-serif;
+.paragraphs{
+	color: white;
+	font-family: 'Roboto', sans-serif;
 }
 
-.p{
-font-family:'Roboto', sans-serif
+.Seasons{
+	color: white;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.quotes{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.Emma{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+.Henry{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+.Regina{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+.Wicked{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+.Dagger_right{
+	right: 20px;
+}
+
+.Dagger_left{
+	left: 20px;
 }
