@@ -49,3 +49,12 @@
 .Dagger_left{
 	left: 20px;
 }
+
+@media(max-width: 550px){
+	.box{
+	font-size: 50px;
+	font-family: 'Julius Sans One', sans-serif;
+	color: lightgrey;
+	margin-left: auto;
+}
+}
